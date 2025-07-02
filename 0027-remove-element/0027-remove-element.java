@@ -1,6 +1,6 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int[] temp = new int[nums.length];
+          int[] temp = new int[nums.length];
         int index = 0;
 
         // Copy non-val elements into temp
