@@ -1,14 +1,21 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-         int insertPos = 0;
+        int[] temp = new int[nums.length];
+        int index = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != val) {
-                nums[insertPos] = nums[i]; // overwrite
-                insertPos++;
+        // Copy non-val elements into temp
+        for (int num : nums) {
+            if (num != val) {
+                temp[index] = num;
+                index++;
             }
         }
 
-        return insertPos;
+        // Copy back into nums
+        for (int i = 0; i < index; i++) {
+            nums[i] = temp[i];
+        }
+
+        return index;
     }
 }
