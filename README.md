@@ -18,6 +18,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nirajgharate/dsa-java/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nirajgharate/dsa-java/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +47,5 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
