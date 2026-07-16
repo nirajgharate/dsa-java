@@ -15,6 +15,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -24,6 +25,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -33,6 +35,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -40,6 +43,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Stack
