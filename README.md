@@ -60,4 +60,20 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
