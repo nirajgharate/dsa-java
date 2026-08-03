@@ -95,4 +95,12 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
