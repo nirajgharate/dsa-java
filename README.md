@@ -73,6 +73,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/nirajgharate/dsa-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
@@ -87,6 +88,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/nirajgharate/dsa-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -118,6 +120,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/nirajgharate/dsa-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
