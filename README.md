@@ -7,6 +7,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nirajgharate/dsa-java/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
@@ -92,6 +94,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
@@ -124,4 +127,8 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
