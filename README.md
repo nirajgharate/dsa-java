@@ -73,6 +73,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -86,6 +87,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -136,4 +139,8 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
