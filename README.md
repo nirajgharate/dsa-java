@@ -74,6 +74,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
@@ -114,6 +115,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
