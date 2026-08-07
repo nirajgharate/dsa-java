@@ -16,6 +16,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nirajgharate/dsa-java/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nirajgharate/dsa-java/tree/main/0101-symmetric-tree/) | Easy |
@@ -29,6 +30,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nirajgharate/dsa-java/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/nirajgharate/dsa-java/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nirajgharate/dsa-java/tree/main/0101-symmetric-tree/) | Easy |
@@ -80,6 +82,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nirajgharate/dsa-java/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
@@ -153,5 +156,10 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nirajgharate/dsa-java/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
