@@ -26,6 +26,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nirajgharate/dsa-java/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/nirajgharate/dsa-java/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0145-binary-tree-postorder-traversal](https://github.com/nirajgharate/dsa-java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nirajgharate/dsa-java/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nirajgharate/dsa-java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/nirajgharate/dsa-java/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/nirajgharate/dsa-java/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
@@ -98,11 +101,13 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0010-regular-expression-matching](https://github.com/nirajgharate/dsa-java/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/nirajgharate/dsa-java/tree/main/0044-wildcard-matching/) | Hard |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/nirajgharate/dsa-java/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nirajgharate/dsa-java/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/nirajgharate/dsa-java/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
