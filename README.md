@@ -87,6 +87,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0095-unique-binary-search-trees-ii](https://github.com/nirajgharate/dsa-java/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nirajgharate/dsa-java/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -113,6 +114,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
