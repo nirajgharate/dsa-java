@@ -91,6 +91,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/nirajgharate/dsa-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
@@ -118,6 +119,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/nirajgharate/dsa-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -131,6 +133,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/nirajgharate/dsa-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +189,8 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nirajgharate/dsa-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
