@@ -116,6 +116,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/nirajgharate/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
@@ -188,6 +189,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/nirajgharate/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
