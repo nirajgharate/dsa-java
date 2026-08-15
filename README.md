@@ -118,6 +118,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajgharate/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajgharate/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/nirajgharate/dsa-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/nirajgharate/dsa-java/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/nirajgharate/dsa-java/tree/main/0322-coin-change/) | Medium |
@@ -195,6 +196,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajgharate/dsa-java/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/nirajgharate/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/nirajgharate/dsa-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## 0-1 Knapsack
@@ -205,4 +207,8 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/nirajgharate/dsa-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
