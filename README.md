@@ -78,6 +78,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [1137-n-th-tribonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2469-convert-the-temperature](https://github.com/nirajgharate/dsa-java/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nirajgharate/dsa-java/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nirajgharate/dsa-java/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajgharate/dsa-java/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
