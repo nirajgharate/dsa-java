@@ -80,6 +80,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3945-digit-frequency-score](https://github.com/nirajgharate/dsa-java/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0219-contains-duplicate-ii](https://github.com/nirajgharate/dsa-java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3945-digit-frequency-score](https://github.com/nirajgharate/dsa-java/tree/main/3945-digit-frequency-score/) | Easy |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
