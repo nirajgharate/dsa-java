@@ -79,6 +79,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nirajgharate/dsa-java/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/nirajgharate/dsa-java/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/nirajgharate/dsa-java/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
