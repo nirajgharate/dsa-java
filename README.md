@@ -76,6 +76,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0509-fibonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nirajgharate/dsa-java/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nirajgharate/dsa-java/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nirajgharate/dsa-java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
