@@ -79,6 +79,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nirajgharate/dsa-java/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nirajgharate/dsa-java/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/nirajgharate/dsa-java/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nirajgharate/dsa-java/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -240,4 +241,8 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/nirajgharate/dsa-java/tree/main/2413-smallest-even-multiple/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
