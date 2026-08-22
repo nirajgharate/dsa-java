@@ -84,6 +84,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [2235-add-two-integers](https://github.com/nirajgharate/dsa-java/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/nirajgharate/dsa-java/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/nirajgharate/dsa-java/tree/main/2469-convert-the-temperature/) | Easy |
+| [2652-sum-multiples](https://github.com/nirajgharate/dsa-java/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/nirajgharate/dsa-java/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nirajgharate/dsa-java/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajgharate/dsa-java/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
