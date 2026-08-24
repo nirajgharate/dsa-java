@@ -150,6 +150,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nirajgharate/dsa-java/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirajgharate/dsa-java/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/nirajgharate/dsa-java/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nirajgharate/dsa-java/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/nirajgharate/dsa-java/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -214,6 +215,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0217-contains-duplicate](https://github.com/nirajgharate/dsa-java/tree/main/0217-contains-duplicate/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nirajgharate/dsa-java/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/nirajgharate/dsa-java/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/nirajgharate/dsa-java/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/nirajgharate/dsa-java/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
