@@ -152,6 +152,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nirajgharate/dsa-java/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/nirajgharate/dsa-java/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -255,5 +256,6 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajgharate/dsa-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajgharate/dsa-java/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/nirajgharate/dsa-java/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
