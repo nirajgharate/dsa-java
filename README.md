@@ -149,6 +149,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirajgharate/dsa-java/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +248,5 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
