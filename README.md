@@ -143,6 +143,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nirajgharate/dsa-java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajgharate/dsa-java/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajgharate/dsa-java/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajgharate/dsa-java/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -174,6 +175,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0072-edit-distance](https://github.com/nirajgharate/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/nirajgharate/dsa-java/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nirajgharate/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajgharate/dsa-java/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,5 +254,6 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajgharate/dsa-java/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajgharate/dsa-java/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
