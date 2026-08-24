@@ -149,6 +149,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirajgharate/dsa-java/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajgharate/dsa-java/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajgharate/dsa-java/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/nirajgharate/dsa-java/tree/main/3668-restore-finishing-order/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -223,6 +224,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nirajgharate/dsa-java/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3668-restore-finishing-order](https://github.com/nirajgharate/dsa-java/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/nirajgharate/dsa-java/tree/main/3945-digit-frequency-score/) | Easy |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
