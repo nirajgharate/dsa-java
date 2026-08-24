@@ -142,6 +142,7 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | [0877-stone-game](https://github.com/nirajgharate/dsa-java/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/nirajgharate/dsa-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nirajgharate/dsa-java/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nirajgharate/dsa-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/nirajgharate/dsa-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/nirajgharate/dsa-java/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajgharate/dsa-java/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -250,5 +251,6 @@ Consistent practice of Data Structures and Algorithms using Java with clean, wel
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/nirajgharate/dsa-java/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/nirajgharate/dsa-java/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajgharate/dsa-java/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
